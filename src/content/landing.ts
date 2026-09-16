@@ -469,6 +469,7 @@ export const integrations: Integration[] = [
 
 export const contact = {
   supportEmail: "help@trackattend.app",
+  salesEmail: "sales@trackattend.app",
   phone: "+91 982 600 1234",
   address: "cgit boys hostel room 5, ground floor, cgit campus, raipur, chhattishgarh, india",
   hours: "Support 8 a.m. – 8 p.m. IST, Monday to Saturday",
